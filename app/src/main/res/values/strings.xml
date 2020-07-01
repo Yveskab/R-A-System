@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Robbery Alert</string>
+    <string name="panick_button"> Panick </string>
+    <string name="app_name_text">Armed Robbery</string>
+    <string name="my_button">For Me!</string>
+    <string name="neighbor_button">For Someone Else!</string>
+    <string name="armed_robbery_btn">Armed"\n"Robbery</string>
+    <string name="medical_button">Medica</string>
+    <string name="medical_btn">Medical</string>
+    <string name="other_emergency_btn">Other Emergency</string>
+    <string name="non_emergency_btn">Non Emergency"\n"Communication</string>
 </resources>
